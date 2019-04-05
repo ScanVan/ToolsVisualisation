@@ -40,7 +40,6 @@ public:
 
 };
 
-
 class FileConfig {
 public:
 	std::string ConfigFilePath { "./" };
